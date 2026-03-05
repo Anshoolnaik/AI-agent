@@ -141,6 +141,3 @@ Quality warnings are displayed when significant data gaps are detected.
 └─────────────────────────────────────────────────────────┘
 ```
 
-## License
-
-MIT
